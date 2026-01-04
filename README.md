@@ -1,4 +1,4 @@
-# Docker Compose Observability Stack
+# Docker Compose Observability Stack 🐳
 
 A hands-on **Docker Compose multi-container stack** designed to consolidate core container, networking and observability concepts using real-world tooling.
 
@@ -11,7 +11,7 @@ The goal is to demonstrate how multiple services communicate securely using Dock
 
 ---
 
-## Architecture Overview
+## Architecture Overview 📐🐙
 
 Client  
 → Nginx (public network, reverse proxy)  
@@ -51,7 +51,7 @@ Key concepts:
 
 ## Services
 
-### Nginx
+### Nginx 
 - Acts as the entry point (reverse proxy)
 - Exposes port **80**
 - Routes traffic to the Python application
